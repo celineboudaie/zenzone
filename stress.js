@@ -117,7 +117,7 @@
       answerC: "c"
     },
     {
-      question: "2. You're getting ready for sleep, How are you feeling?",
+      question: "2. You're getting ready for sleep, how are you feeling?",
       answers: {
         a: "Calm, it is almost always easy for me to fall asleep",
         b: "Depends, if I have a big day ahead it is hard to fall asleep",
@@ -132,7 +132,7 @@
       answers: {
         a: "I never get sick, I am a super-healthy person",
         b: "I rarely get sick, I consider myself healthy",
-        c: "I always get bugs that go arouond and constantly have colds",
+        c: "I always get bugs that go around and constantly have colds",
       },
       answerA: "a",
       answerB: "b",
@@ -142,7 +142,7 @@
       question: "4. How tired do you usually feel?",
       answers: {
         a: "Fine, usually energized",
-        b: "Little tired but nothing a nap can't fix",
+        b: "Little tired, but nothing a nap can't fix",
         c: "I NEED VACATION..I am overtired AF"
       },
       answerA: "a",
@@ -152,9 +152,9 @@
     {
       question: "5. How much do you worry?",
       answers: {
-        a: "I rarely worry..somethings are just out of my control",
+        a: "I rarely worry..some things are just out of my control",
         b: "I usually remain calm, unless I have something to worry about",
-        c: "I worry often and consider myself an axious person"
+        c: "I worry often and consider myself an anxious person"
       },
       answerA: "a",
       answerB: "b",
@@ -164,18 +164,18 @@
       question: "6. Do you have difficulty concentrating on a task?",
       answers: {
         a: "No, I am very focused",
-        b: "Somtimes, but mostly have good concentration",
-        c: "very often. I am easily distracted"
+        b: "Sometimes, but mostly have good concentration",
+        c: "Very often. I am easily distracted"
       },
       answerA: "a",
       answerB: "b",
       answerC: "c"
     },
     {
-      question: "7. Do you have dificulty breathing (ex: excessively rapid breathes)?",
+      question: "7. Do you have difficulty breathing (ex: excessively rapid breathes)?",
       answers: {
         a: "No, never or only a few times",
-        b: "Somtimes, but only during very stressful times",
+        b: "Sometimes, but only during very stressful times",
         c: "Often or to a considerable degree"
       },
       answerA: "a",
@@ -183,7 +183,7 @@
       answerC: "c"
     },
     {
-      question: "8. I found myself getting upset by quite trivial things.",
+      question: "8. I find myself getting upset by quite trivial things.",
       answers: {
         a: "No, never or rarely",
         b: "Somtimes, but not usually",
